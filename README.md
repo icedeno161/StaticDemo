@@ -1,0 +1,2 @@
+# StaticDemo
+Static methods demo
